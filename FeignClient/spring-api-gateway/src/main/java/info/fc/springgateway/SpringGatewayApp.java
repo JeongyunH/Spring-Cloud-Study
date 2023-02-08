@@ -1,11 +1,13 @@
-package info.fc.photoapp;
+package info.fc.springgateway;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
+
 
 @SpringBootApplication
-public class App {
+public class SpringGatewayApp {
     public static void main(String ar[]) {
-        SpringApplication.run(App.class, ar);
+        SpringApplication.run(SpringGatewayApp.class);
     }
 }

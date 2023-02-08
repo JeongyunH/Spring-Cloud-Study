@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
@@ -24,6 +25,30 @@
             <option value="$PROJECT_DIR$/EurekaService/api-server-photoapp" />
             <option value="$PROJECT_DIR$/EurekaService/eureka-server" />
             <option value="$PROJECT_DIR$/EurekaService/spring-api-gateway" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/FeignClient" />
+        <option name="gradleJvm" value="11" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/FeignClient" />
+            <option value="$PROJECT_DIR$/FeignClient/api-server-photoapp" />
+            <option value="$PROJECT_DIR$/FeignClient/feignclient" />
+            <option value="$PROJECT_DIR$/FeignClient/spring-api-gateway" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/GCPSample" />
+        <option name="gradleJvm" value="11" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/GCPSample" />
+            <option value="$PROJECT_DIR$/GCPSample/api-server-photoapp" />
           </set>
         </option>
       </GradleProjectSettings>
