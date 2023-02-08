@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: mysql
+
+spring.cloud.vault:
+  host: localhost
+  port: 8200
+  token: 28e7b5b5-422e-49dd-8773-19e26fe0ec63
+  scheme: http
+  kv.enabled: true
+

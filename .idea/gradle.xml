@@ -66,6 +66,19 @@
       </GradleProjectSettings>
       <GradleProjectSettings>
         <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/SpringCloudConfig" />
+        <option name="gradleJvm" value="11" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/SpringCloudConfig" />
+            <option value="$PROJECT_DIR$/SpringCloudConfig/spring-config" />
+            <option value="$PROJECT_DIR$/SpringCloudConfig/spring-config-client" />
+            <option value="$PROJECT_DIR$/SpringCloudConfig/spring-vault" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/SpringCloudGateway" />
         <option name="gradleJvm" value="11" />
         <option name="modules">
