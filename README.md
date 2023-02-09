@@ -7,5 +7,6 @@
 #### 5. Resilience4j (장애 관리 및 모니터링)
 #### 6. GCPSample(Google Cloud Platform)
 #### 7. Spring Cloud Config
-#### 8. Spring Boot Admin (분산환경에서 모니터링)
+#### 8. Spring Boot Admin (Spring admin 이용 분산환경에서 모니터링)
+#### 9. Sleuth & Zipkin & MDC(분산환경에서 로깅)
 추가 예정...
