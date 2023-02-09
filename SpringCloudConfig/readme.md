@@ -17,5 +17,4 @@
 * Vault(암호화)
 - implementation("org.springframework.cloud:spring-cloud-starter-vault-config")
 - vault에 property와 pw를 주입해서 다른 설정들이 노출되지 않게..
-- vault 실행 후,
-- vault kv put secret/.....
+- vault 실행 후, 명령어로 key=value 주입(vault kv put secret/..... key=value, k=v...)

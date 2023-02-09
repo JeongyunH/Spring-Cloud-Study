@@ -7,10 +7,10 @@
         <processorPath useClasspath="false">
           <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.18.18/481f5bfed3ae29f656eedfe9e98c8365b8ba5c57/lombok-1.18.18.jar" />
         </processorPath>
-        <module name="Spring-Boot-Admin.api-server-photoapp.main" />
-        <module name="Spring-Boot-Admin.eureka.main" />
-        <module name="Spring-Boot-Admin.spring-api-gateway.main" />
+        <module name="Spring-Cloud-Gateway.api-server-photoapp.main" />
+        <module name="SpringCloudGateway.Spring-Cloud-Gateway.spring-api-gateway.main" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel target="11" />
   </component>
 </project>
